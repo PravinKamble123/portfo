@@ -11,7 +11,7 @@ variables:
   azureServiceConnectionId: '4477eb7b-f98d-4b8b-8275-a7ebc7434e81'
 
   # Web app name
-  webAppName: 'Myportfo'
+  webAppName: 'iampravin'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
